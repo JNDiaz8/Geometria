@@ -6,4 +6,4 @@
 *.swp
 
 #ignora la carpeta de documentación
-/doc
+*/doc
