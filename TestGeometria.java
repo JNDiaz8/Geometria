@@ -1,3 +1,8 @@
+/**Generamos documentacion para el archivopubli
+test geometria
+@author Joaquin Diaz
+@version 1.0
+*/
 public class TestGeometria{
 	public static void main (String [] args){
 		
